@@ -1,4 +1,4 @@
-# Simulasi Sistem Operasi Process Managament dan Memory Management
+# Process Management and Memory Management Simulation
 
 Proyek ini menggunakan [Vite](https://vitejs.dev/) dan [React](https://reactjs.org/) untuk membangun aplikasi web yang cepat dan modern.
 
