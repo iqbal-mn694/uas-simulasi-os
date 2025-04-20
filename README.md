@@ -1,4 +1,4 @@
-# 🚀 Vite + React.js Starter
+# Simulasi Sistem Operasi Process Managament dan Memory Management
 
 Proyek ini menggunakan [Vite](https://vitejs.dev/) dan [React](https://reactjs.org/) untuk membangun aplikasi web yang cepat dan modern.
 
@@ -21,18 +21,17 @@ project/
 
 - ⚛️ React.js
 - ⚡ Vite
-- 🎨 Tailwind CSS *(opsional)*
-- 🧪 Vitest / Jest *(jika menggunakan testing)*
+- 🎨 Tailwind CSS
 - 📦 npm / yarn
 
 ## 📦 Cara Install
 
 ```bash
 # Clone repository
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/iqbal-mn694/simulasi-os.git
 
 # Masuk ke folder project
-cd nama-repo
+cd simulasi-os
 
 # Install dependencies
 npm install
