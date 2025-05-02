@@ -6,3 +6,7 @@
   --color-os-gray: #F3F4F6;
   --color-os-orange: #FB923C;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
